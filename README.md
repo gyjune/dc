@@ -2,4 +2,3 @@
 
 
 
-多仓https://gitee.com/gyjune/dc/raw/main/dc.json
