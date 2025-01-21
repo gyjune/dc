@@ -11,7 +11,11 @@
     { 
             "url": "http://mdxgh.tpddns.cn:9999/mdxgh.json", 
             "name": "📚｜码点小干货" 
-        },           
+        }, 
+{ 
+            "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json", 
+            "name": "📚｜简影" 
+        },          
         { 
             "url":"https://d.kstore.dev/download/12020/jk.bmp", 
             "name": "📚｜白虾工具" 
