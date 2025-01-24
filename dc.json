@@ -29,8 +29,12 @@
             "name": "📚｜白龙" 
         },
 { 
+            "url": "https://4708.kstore.space/tvbox/api.json", 
+            "name": "📚｜拾光线路一" 
+        },
+{ 
             "url": "https://gitea.moe/omg/omg/raw/branch/main/api.json", 
-            "name": "📚｜拾光线路" 
+            "name": "📚｜拾光线路二" 
         },
 { 
             "url": "https://gitee.com/lukei7/lib/raw/Luck/自建.json", 
