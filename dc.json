@@ -37,12 +37,12 @@
             "name": "📚｜白龙" 
         },
 { 
-            "url": "https://4708.kstore.space/tvbox/api.json", 
-            "name": "📚｜拾光线路一" 
+            "url": "clan://localhost/svip/svip.json", 
+            "name": "📚｜拾光影视仓" 
         },
 { 
-            "url": "https://gitea.moe/omg/omg/raw/branch/main/api.json", 
-            "name": "📚｜拾光线路二" 
+            "url": "file://svip/svip.json", 
+            "name": "📚｜拾光线路影视" 
         },
 { 
             "url": "https://gitee.com/lukei7/lib/raw/Luck/自建.json", 
@@ -214,8 +214,12 @@
       "name": "多仓📚｜学梳" 
     }, 
     { 
-      "url": "http://www.饭太硬.net/tv", 
-      "name": "多仓📚｜饭太硬" 
+      "url": "clan://localhost/fty/fty.json", 
+      "name": "多仓📚｜饭太硬影视仓" 
+    }, 
+     { 
+      "url": "file://fty/fty.json", 
+      "name": "多仓📚｜饭太硬影视" 
     }, 
     { 
       "url": "https://gitee.com/free-kingdom/xmbjmjk/raw/main/movie.json", 
