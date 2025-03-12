@@ -41,13 +41,10 @@
             "name": "📚｜白龙" 
         },
 { 
-            "url": "clan://localhost/svip/svip.json", 
-            "name": "📚｜拾光影视仓" 
+            "url": "https://4708.kstore.space/svip/svip.json", 
+            "name": "📚｜拾光影视" 
         },
-{ 
-            "url": "file://svip/svip.json", 
-            "name": "📚｜拾光线路影视" 
-        },
+
 { 
             "url": "https://gitee.com/lukei7/lib/raw/Luck/自建.json", 
             "name": "📚｜蓝天" 
@@ -61,8 +58,8 @@
             "name": "📚｜小屋🛖" 
         },
 { 
-            "url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json", 
-            "name": "📚｜花生" 
+            "url": "https://xn--8owq8u.com/tv/", 
+            "name": "📚｜毒盒" 
         },
 { 
             "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJGY.json", 
